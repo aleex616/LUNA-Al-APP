@@ -12,3 +12,8 @@ L'idea è quella di realizzare un **applicazione per Android** capace di eseguir
 - **API:** gratuita
 
 Successivamente useremo qualcosa che non so ancora cosa, per trasformare le parole pronunciate dall'utente in testo e trasformare poi, il testo generato dall' AI in audio.
+
+**Materiali:**
+- Smartphone 
+- cervello
+- luck
