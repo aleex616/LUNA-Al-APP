@@ -17,3 +17,12 @@ Successivamente useremo qualcosa che non so ancora cosa, per trasformare le paro
 - Smartphone 
 - cervello
 - luck
+
+**TimeLine:**
+-**Step1**: creare una IA di base **10/03/26**
+-**Step2**: integrarla nell'app **24/03/26**
+-**Step3**: speech to text **07/04/26**
+-**Step4**: text to speech **21/04/26**
+-**Step5**: UI **28/04/26**
+-**Step6**: testing and bug fixing **12/05/26**
+-**Step7**: the end **12-19/05/26**
