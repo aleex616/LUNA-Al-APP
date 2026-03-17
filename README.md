@@ -1,28 +1,55 @@
-# AI-per-BMO
+## AI-per-BMO
 
-In questo progetto realizzeremo la parte software per un robot chiamato **BMO** realizzato da [Simone Brancaglion](https://github.com/LeonixGamesIndustries) e da [Matteo Gravina](https://github.com/Gravi09)
+In questo progetto realizzeremo la parte software per un robot chiamato **BMO**, sviluppato da:
+- [Simone Brancaglion](https://github.com/LeonixGamesIndustries)
+- [Matteo Gravina](https://github.com/Gravi09)
 
-L'idea è quella di realizzare un **applicazione per Android** capace di eseguire in background uno **script in Python** che ci permette di avere le risposte dall'AI. Lo script usa un modello di Google con le seguenti caratteristiche:
-- **Modello:** gemini-2.5-flash 
-- **Contesto** di 1.000.000 token (circa 750.000 parole)
-- **Knowledge** 2023/2024
-- **250 MAX** richieste al giorno **(RPD)**
-- **10 MAX** richieste al minuto **(RPM)**
-- **250.000 MAX** token al minuto **(TPM)**
+---
+
+## Obiettivo
+
+L'idea è creare un'**applicazione Android** capace di eseguire in background uno **script Python**, che permetta di ottenere risposte da un modello di intelligenza artificiale.
+
+Lo script utilizza un modello Google con le seguenti caratteristiche:
+
+### Modello AI
+- **Modello:** `gemini-2.5-flash`
+- **Contesto:** 1.000.000 token (~750.000 parole)
+- **Knowledge cutoff:** 2023/2024
+- **Limiti:**
+  - 250 richieste al giorno (**RPD**)
+  - 10 richieste al minuto (**RPM**)
+  - 250.000 token al minuto (**TPM**)
 - **API:** gratuita
 
-Successivamente useremo qualcosa che non so ancora cosa, per trasformare le parole pronunciate dall'utente in testo e trasformare poi, il testo generato dall' AI in audio.
+---
 
-**Materiali:**
-- Smartphone 
-- cervello
-- luck
+## Funzionalità future
 
-**TimeLine:**
--**Step1**: creare una IA di base **10/03/26**
--**Step2**: integrarla nell'app **24/03/26**
--**Step3**: speech to text **07/04/26**
--**Step4**: text to speech **21/04/26**
--**Step5**: UI **28/04/26**
--**Step6**: testing and bug fixing **12/05/26**
--**Step7**: the end **12-19/05/26**
+Successivamente verranno integrate:
+- **Speech-to-Text** → trasformare la voce in testo  
+- **Text-to-Speech** → trasformare il testo in audio  
+
+---
+
+## Materiali
+
+- Smartphone
+- PC
+- Fortuna  
+
+---
+
+## 📅 Timeline
+
+| Step | Descrizione                  | Data        |
+|------|-----------------------------|------------|
+| 1    | IA di base                  | 10/03/2026 |
+| 2    | Integrazione nell'app       | 24/03/2026 |
+| 3    | Speech-to-Text              | 07/04/2026 |
+| 4    | Text-to-Speech              | 21/04/2026 |
+| 5    | UI                          | 28/04/2026 |
+| 6    | Testing & Bug Fixing        | 12/05/2026 |
+| 7    | Fine progetto               | 12–19/05/2026 |
+
+---
