@@ -10,7 +10,7 @@ In questo progetto realizzeremo la parte software per un robot chiamato **BMO**,
 
 L'idea è creare un'**applicazione Android** capace di mostrare la faccia di BMO e di utilizzare un LLM per rispondere a domande
 
-
+![Imagine illustrativa](miscellaneous/imgREADME.png)
 
 Utilizzeremo un modello Google con le seguenti caratteristiche:
 
@@ -47,7 +47,7 @@ Successivamente verranno integrate:
 
 | Step | Descrizione                  | Data        |
 |------|-----------------------------|------------|
-| 1    | IA di base                  | 10/03/2026 |
+| 1    | IA di base   **← siamo qui!**  | 10/03/2026 | 
 | 2    | Integrazione nell'app       | 24/03/2026 |
 | 3    | Speech-to-Text              | 07/04/2026 |
 | 4    | Text-to-Speech              | 21/04/2026 |
