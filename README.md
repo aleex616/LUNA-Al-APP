@@ -47,8 +47,8 @@ Successivamente verranno integrate:
 
 | Step | Descrizione                  | Data        |
 |------|-----------------------------|------------|
-| 1    | IA di base   **← siamo qui!**  | 10/03/2026 | 
-| 2    | Integrazione nell'app       | 24/03/2026 |
+| 1    | IA di base                  | 10/03/2026 | 
+| 2    | Integrazione nell'app  **← siamo qui!** | 24/03/2026 |
 | 3    | Speech-to-Text              | 07/04/2026 |
 | 4    | Text-to-Speech              | 21/04/2026 |
 | 5    | UI                          | 28/04/2026 |
