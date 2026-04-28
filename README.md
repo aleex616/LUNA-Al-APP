@@ -1,16 +1,15 @@
-## AI-per-BMO
-
-In questo progetto realizzeremo la parte software per un robot chiamato **BMO**, sviluppato da:
-- [Simone Brancaglion](https://github.com/LeonixGamesIndustries)
-- [Matteo Gravina](https://github.com/Gravi09)
-
+## LUNA
+In questo progetto realizzeremo un dispositivo dotato di IA chiamato LUNA che sarà in grado di rispondere alle proprie domande.
+Questo dispositivo ha le seguenti funzionalità:
+- orologio
+- hub di ricarica
+- modello IA
+- calendario/promemoria
 ---
 
 ## Obiettivo
 
-L'idea è creare un'**applicazione Android** capace di mostrare la faccia di BMO e di utilizzare un LLM per rispondere a domande
-
-![Imagine illustrativa](miscellaneous/imgREADME.png)
+L'idea è creare un'**applicazione Android** che mostri l'orario e al pronunciare del suo nome LUNA si attivi l'IA
 
 Utilizzeremo un modello Google con le seguenti caratteristiche:
 
@@ -56,9 +55,3 @@ Successivamente verranno integrate:
 | 7    | Creazione robot Luna        | 12/05/2026     |                     |
 | 8    | Fine progetto               | 19/05/2026    |                     |
 
----
-
-## Piano B
-
-In caso gli altri componenti di questo progetto, elencati all'inizio, non riuscissero a creare la parte fisica per BMO, noi abbiamo pensato ad un piano B per il nostro progetto ed è quello di aggiungere la nostra AI in un altro robottino di lumodevice.com da cui abbiamo preso spunto.
-Questo robottino verrà costruito usando la stampante 3D e lasceremo uno spazio dove posare il telefono che servirà per comunicare con la AI.
