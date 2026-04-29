@@ -53,6 +53,14 @@ Utilizzeremo un modello Google in cloud con le seguenti caratteristiche:
 
 ---
 
+## Come funziona la nostra app 
+
+
+
+---
+
+---
+
 ## Come iniziare
 
 1. Scarica tutto il codice dalla repository
@@ -67,7 +75,6 @@ Utilizzeremo un modello Google in cloud con le seguenti caratteristiche:
 
 ## Timeline
 
-## Timeline
 
 | Step | Descrizione                           | Data prevista | Data di svolgimento |
 |:----:|---------------------------------------|:-------------:|:-------------------:|
