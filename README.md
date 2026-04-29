@@ -36,7 +36,7 @@ Utilizzeremo un modello Google in cloud con le seguenti caratteristiche:
 ## Materiali
 
 **Hardware**
-- Smartphone (Android 9.0 o superiore)
+- Smartphone (Android 9.0 (pie) o superiore)
 - PC
 - Stampante 3D
 - Filamento di qualsiasi colore
@@ -54,10 +54,8 @@ Utilizzeremo un modello Google in cloud con le seguenti caratteristiche:
 ---
 
 ## Come funziona la nostra app 
-![schemaAoo](miscellaneous/schemaApp.png)
+![schemaApp](miscellaneous/schemaApp.png)
 
-
----
 
 ---
 
